@@ -103,8 +103,9 @@ app.use(function (req,res,next) {
 });
 
 app.get('/', oidc.ensureAuthenticated(), (req, res) => {
-  res.send(JSON.stringify(req.userinfo));
-  console.log("Hi");
+//  res.send(JSON.stringify(req.userinfo));
+//  console.log("Hi");
+    res.render("index");
 });
 
 app.get("/home", (req,res) => {
