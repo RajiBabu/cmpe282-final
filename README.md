@@ -1,14 +1,16 @@
 # cmpe282-cloud-spartans-spring2019
-# Project Mock-up
-# Sangwon
-<br>Front end</br>
-<br>Displying Data</br>
-<br>Introduction pages</br>
-# Jun
-<br></br>
-<br></br>
-<br></br>
+## Individual Portion For Project
+### Sangwon (Nathan)
+Front End Web Application</br>
+- Displaying Data
+- Updating Data
+- Deleting Data
+- EC2 Testing
+
+### Jun
+AWS API Gateway</br>
+Jenkins Server</br>
+
 # Raji
-<br></br>
-<br></br>
-<br></br>
+CI/CD (Github Webhooks, Jenkins) </br>
+EC2 Deployment </br>
